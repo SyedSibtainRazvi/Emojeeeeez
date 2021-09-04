@@ -13,7 +13,8 @@ const emojiDictionary = {
   "😡": "Angry",
   "🤮": "Sick",
   "🤔": "Thinking",
-  "🤥": "Lying"
+  "🤥": "Lying",
+  "😕": "Confused"
 };
 
 const emojiArray = Object.keys(emojiDictionary);
